@@ -200,6 +200,8 @@ img {
 .button__small{
     display: flex;
     width: 137px;
+    height: 44px;
+    padding: 10px 14px;
     justify-content: center;
     align-items: center;
     border-radius: 6px;
